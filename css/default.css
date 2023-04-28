@@ -7,22 +7,27 @@
 
 #title{
 
-position: relative;
-width: 40vw;
-left: 10vw;
-top: 16vh;
-writing-mode: vertical-rl;
+  position: relative;
+  width: 80vw;
+  left: 10vw;
+  top: 16vh;
+  writing-mode: vertical-rl;
+vertical-align: middle;
 }
 .nav{
-position: relative;
-top: 20vh;
-
-text-align: center;
+  position: relative;
+  top: 24vh;
+  text-align: center;
 }
 
 .nav_nav{
-writing-mode: vertical-rl;
-text-align: center;
+  writing-mode: vertical-rl;
+  text-align: center;
+  letter-spacing: 5px;
+}
+
+.nav_nav:hover{
+  letter-spacing: 10px;
 }
 
 h1{
