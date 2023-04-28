@@ -1,42 +1,22 @@
-﻿/* modified from http://www.yinwang.org/main.css */
-body {
-  font-family:"lucida grande", "lucida sans unicode", lucida, helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
-  background-color: white;
-  font-size: 100%;
-}
+﻿
 
-div.main {
-  margin: auto;
-  padding: 2% 5% 5% 5%;
-  width: 700px;
-  line-height: 150%;
-  border: 1px solid LightGrey;
-}
 
-H1, H2, H3, H4 {
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, Helvetica, STKaiti, SimSun, serif; 
-  width: 98%;
-  line-height: 150%;
-  color: #666666;
-}
 
-H1, H2 {
-  margin-bottom: 1.67em;
-  padding: 0.2em;
-  border-bottom: 2px LightGrey solid;
-}
 
-H3, H4 {
-  margin-top: 2.14em;
-  margin-bottom: 1.5em;
-  border-bottom: 1px LightGrey solid;
-}
 
-blockquote {
-  margin: 0 0 0 0.25em;
-  padding: 0 0 0 0.5em;
-  border-left: 0.25em lightgrey solid;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 pre {
   font-family: Inconsolata, Consolas, "DEJA VU SANS MONO", "DROID SANS MONO", Proggy, monospace;
@@ -69,17 +49,6 @@ pre code {
   word-wrap: normal;
 }
 
-a {
-  text-decoration: none;
-  padding: 1px;
-  color: #204A87;
-  word-wrap: break-word;
-  word-break: break-all;
-}
-
-a:hover {
-  text-decoration: underline;
-}
 
 div.tag_cloud a {
   word-wrap: normal;
