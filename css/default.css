@@ -8,11 +8,10 @@
 #title{
 
   position: relative;
-  width: 80vw;
-  left: 10vw;
+  width: 100vw;
   top: 16vh;
   writing-mode: vertical-rl;
-vertical-align: middle;
+  vertical-align: middle;
 }
 .nav{
   position: relative;
@@ -28,6 +27,7 @@ vertical-align: middle;
 
 .nav_nav:hover{
   letter-spacing: 10px;
+  transform: translateY(-5px);
 }
 
 h1{
