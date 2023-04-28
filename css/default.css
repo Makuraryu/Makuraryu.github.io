@@ -59,29 +59,6 @@ div.tag_cloud a {
   word-break: normal;
 }
 
-div.nav a {
-  text-decoration: none;
-  color: #555;
-}
-
-div.nav a:hover {
-  background-color: LightGrey;
-  color: #ffffff;
-}
-
-
-
-div.nav_rss {
-  width: 20%;
-  text-align: right;
-  float: right;
-}
-
-div.nav_nav {
-  width: 80%;
-  float: left;
-}
-
 img {
   display: block;
   margin-left: auto;
