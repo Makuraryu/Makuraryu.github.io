@@ -4,7 +4,7 @@
 
 #cover{
   position: relative;
-  height: 98vh;
+  height: 98%;
   width: 98vw;
   min-height: 600px;
 }
@@ -61,6 +61,12 @@
 .postlist{
   width: 80vw;
   left: 10vw;
+  position: relative;
+
+}
+
+.overview{
+  position: relative;
 }
 
 
