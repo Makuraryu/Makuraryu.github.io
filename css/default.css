@@ -126,13 +126,17 @@
   font-weight: bold;
 }
 
+.paginator{
+  font-size: 15px;
+  width:fit-content;
+  margin:auto;
+  font-weight: bold;
+}
+
 .previous-disabled,.next-disabled,.topage{
   color: #91989f;
 }
 
-.paginator{
-  font-size: 15px;
-}
 
 .previous,.next,.current-page{
   color: #1c1c1c;
