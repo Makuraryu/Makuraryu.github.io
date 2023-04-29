@@ -6,7 +6,7 @@ a{
 }
 
 span{
-    font-family: FandolSong-Bold;
+    font-family: FandolSong;
     color: #1c1c1c;
 }
 
@@ -17,7 +17,7 @@ span{
 }
 
 @font-face {
-    font-family: FandolSong-Re;
+    font-family: FandolSong;
     src: url(./FandolSong-Regular.otf);
 }
 

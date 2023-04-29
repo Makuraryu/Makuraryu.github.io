@@ -62,14 +62,14 @@
   width: 80vw;
   left: 10vw;
   position: relative;
-  display: flex;
+
   margin-top: 70px;
 }
 
 .overview{
   position: relative;
   width: 70%;
-  margin: auto;
+  left: 15%;
 }
 
 .detail{
