@@ -174,13 +174,11 @@ html{
   display: flex;
   width: 99vw;
   top: 15%;
-  height: 300px; 
-  
-
+  height: 300px;
 }
 .posttitle{
   writing-mode: vertical-rl;
-  font-size: 80px;
+  font-size: 70px;
   max-height: 350px;
   margin: auto;
   word-wrap: break-word;
@@ -189,12 +187,13 @@ html{
 
 #article{
   position: relative;
-  width: 70%;
-  left: 15%;
-  font-size: 20px;
+  width: 60%;
+  left: 20%;
+  font-size: 18px;
   font-family: FandolSong;
-  line-height: 10px;
+  line-height: 30px;
   color: #1c1c1c;
+  text-indent:2em;
 }
 
 
