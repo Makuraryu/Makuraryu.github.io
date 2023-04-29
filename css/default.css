@@ -4,7 +4,7 @@
 
 #cover{
   position: relative;
-  height: 98%;
+  height: 98vh;
   width: 98vw;
   min-height: 600px;
 }
@@ -62,11 +62,24 @@
   width: 80vw;
   left: 10vw;
   position: relative;
-
+  display: flex;
 }
 
 .overview{
   position: relative;
+  width: 70%;
+  margin: auto;
+}
+
+.detail{
+  position: relative;
+  text-align: center;
+}
+.detail::before{
+  content: "「";
+}
+.detail::after{
+  content: "」";
 }
 
 
