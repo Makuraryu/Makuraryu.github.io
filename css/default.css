@@ -196,9 +196,10 @@ html{
   text-indent:2em;
 }
 
-.post-footer{
+.post_footer{
   font-family: FandolSong;
   text-align: center;
+  margin: 40px;
 }
 
 .prev_next{
@@ -210,6 +211,16 @@ html{
 
 .prev_next div{
   width: 40vw;
+  transition: .3s;
+}
+
+.prev_next div:hover{
+  width: 40vw;
+  letter-spacing: 3px;
+}
+
+.next_post{
+  text-align: right;
 }
 
 
