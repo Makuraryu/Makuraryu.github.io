@@ -15,28 +15,27 @@
             {{ content }}
         </div>
         {% if page.categories %}
-        <div class="post_footer">
-          <p>Published on {{ page.date | date: "%b %d, %Y" }} in categories 
-          {% for cat in page.categories %}
-          <a href="{{ site.url }}/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>&nbsp;
-          {% endfor %}
-          <p>
-        </div>
+        <p class="post_footer">
+            Published on {{ page.date | date: "%b %d, %Y" }} in categories 
+            {% for cat in page.categories %}
+            <a href="{{ site.url }}/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>
+            {% endfor %}
+        <p>
         {% endif %}
-        <ul class="prev_next">
+        <div class="prev_next">
             {% if page.previous.url %}
-            <li>
+            <div>
                 <span>上一篇</span>
                 <a href="{{page.previous.url}}">{{page.previous.title}}</a>
-            </li>
+            </div>
             {% endif %}
             {% if page.next.url %}
-            <li>
+            <div>
                 <span>下一篇</span>
                 <a href="{{page.next.url}}">{{page.next.title}}</a>
-            </li>
+            </div>
             {% endif %}
-        </ul>
+        </div>
     </div>
 </div>
 {% include footer.html %}

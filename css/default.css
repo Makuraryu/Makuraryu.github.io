@@ -164,7 +164,7 @@ html{
 .footer{
   margin: 30px;
   font-family: FandolSong;
-  font-size: 10px;
+  font-size: 15px;
 }
 
 /*文章页*/
@@ -196,6 +196,21 @@ html{
   text-indent:2em;
 }
 
+.post-footer{
+  font-family: FandolSong;
+  text-align: center;
+}
+
+.prev_next{
+  position: relative;
+  width: 80vw;
+  left: 10vw;
+  display: flex;
+}
+
+.prev_next div{
+  width: 40vw;
+}
 
 
 
@@ -286,20 +301,6 @@ strong {
 }
 
 
-
-
-
-
-
-div.post_footer {
-  text-align: right;
-  font-size: 0.9em;
-  font-style: italic;
-}
-
-div.post_footer a {
-  border: LightGrey 1px dashed;
-}
 
 table {
   border-collapse: collapse;
