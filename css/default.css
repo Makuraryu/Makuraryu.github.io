@@ -19,18 +19,15 @@
   display: flex;
   width: 99vw;
   top: 20%;
-  justify-content: center;
   height: 300px; 
-  font-size: 100px;
-  writing-mode: vertical-rl;
+
+
 }
-
-
-
-
-
-
-
+.titile{
+  writing-mode: vertical-rl;
+  font-size: 100px;
+  margin: auto;
+}
 
 .nav{
   position: relative;
