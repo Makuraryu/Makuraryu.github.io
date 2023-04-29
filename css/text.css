@@ -10,8 +10,24 @@ span{
     color: #1c1c1c;
 }
 
-.article>a{
-    
+
+#article a{
+    position: relative;
+}
+
+#article a::before{
+    position: absolute;
+    content: "";
+    background-color: rgba(181,202,160,.5);
+    left: 0;
+    bottom: 0;
+    height: 30%;
+    width: 100%;
+    transition:.5s;
+}
+
+#article a:hover::before{
+    height: 100%;
 }
 
 

@@ -231,6 +231,7 @@ html{
 
 /*page*/
 .mainpage{
+  position: relative;
   width: 70vw;
   left: 15vw;
 }
