@@ -83,7 +83,7 @@
   font-size: 30px;
   font-family: FandolSong;
   transition: .2s;
-  font-weight:bold;
+  font-weight:bolder;
 }
 .detail:hover{
   letter-spacing:2px;
@@ -114,6 +114,7 @@
   display: -webkit-box;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 6;
+  font-size: 20px;
 }
 
 .date{
@@ -121,12 +122,34 @@
   width:100%;
   text-align:right;
   font-family: FandolSong;
+  font-size: 20px;
+  font-weight: bold;
 }
 
+.previous-disabled,.next-disabled,.topage{
+  color: #91989f;
+}
 
+.previous,.next,.current-page{
+  color: #1c1c1c;
+}
+.previous::before{
+  content: '<';
+  opacity: 0;
+  transition: .3s;
+}
+.next::after{
+  content: '>';
+  opacity: 0;
+  transition: .3s;
+}
+.previous:hover::before{
+  opacity: 1;
+}
 
-
-
+.next:hover::before{
+  opacity: 1;
+}
 
 
 
