@@ -201,39 +201,44 @@ html{
   text-align: center;
   margin: 40px;
 }
+.post_footer a{
+  color:#36563c;
+  font-weight:bolder;
+}
 
 .prev_next{
   position: relative;
-  width: 80vw;
-  left: 10vw;
+  left: 15vw;
 }
 
 .prev_next>p{
   width:fit-content;
-  transition: .3s;
+  transition: .5s;
+}
+
+.prev_next>p::before{
+  width:fit-content;
+  content:">";
+  opacity:0;
+  transition:.3s;
 }
 
 .prev_next>p:hover{
   text-shadow:.5px .5px 0px #1c1c1c;
+  transition: .3s;
   position: relative;
 }
-.previous_post{
-  position:absolute;
-  left: 0px;
-  text-align: left;
-}
-.next_post{
-  position:absolute;
-  right: 0px;
-  text-align: right;
+.prev_next>p:hover::before{
+  opacity:1;
+  transform:translateX(5px);
 }
 
 
 /*page*/
 .mainpage{
   position: relative;
-  width: 70vw;
-  left: 15vw;
+  width: 60vw;
+  left: 20vw;
 }
 
 
@@ -326,9 +331,6 @@ hr {
   margin: 0.75em 0;
 }
 
-strong {
-  color: #666666;
-}
 
 
 

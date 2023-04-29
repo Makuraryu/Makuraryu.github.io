@@ -45,6 +45,18 @@ span{
     left:-25px;
 }
 
+#article img{
+    position:relative;
+    max-width:40vw;
+    min-width:20vw;
+    
+}
+
+#article strong{
+    font-family:FandolSong-Bold;
+    color:#36563c;
+}
+
 
 
 
