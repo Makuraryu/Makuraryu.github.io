@@ -209,16 +209,18 @@ html{
   display: flex;
 }
 
-.prev_next div{
+.prev_next p{
   width: 40vw;
   transition: .3s;
 }
 
-.prev_next div:hover{
-  width: 40vw;
+.prev_next p:hover{
+  width: fit-content;
   letter-spacing: 3px;
 }
-
+.previous_post{
+  text-align: left;
+}
 .next_post{
   text-align: right;
 }
