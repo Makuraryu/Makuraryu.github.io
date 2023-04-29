@@ -110,11 +110,18 @@
 .excerpt{
   overflow: hidden;
   text-overflow: ellipsis;
+  text-indent: 2em;
   display: -webkit-box;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 6;
 }
 
+.date{
+  margin-top:10px;
+  width:100%;
+  text-align:right;
+  font-family: FandolSong;
+}
 
 
 
