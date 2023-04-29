@@ -215,7 +215,7 @@ html{
 
 .prev_next>p:hover{
   text-shadow:.5px .5px 0px #1c1c1c;
-
+  position: relative;
 }
 .previous_post{
   position:absolute;

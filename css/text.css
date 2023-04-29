@@ -30,6 +30,21 @@ span{
     height: 100%;
 }
 
+#article blockquote{
+    position: relative;
+    left:20px;
+    color:#36563c;
+}
+
+#article blockquote::before {
+    position:absolute;
+    content:"";
+    background-color:#36563c;
+    height:100%;
+    width:3px;
+    left:-25px;
+}
+
 
 
 
