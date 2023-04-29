@@ -131,6 +131,8 @@
   width:fit-content;
   margin:auto;
   font-weight: bold;
+  font-family: FandolSong;
+  margin: 10px;
 }
 
 .previous-disabled,.next-disabled,.topage{
@@ -144,21 +146,24 @@
 .previous::before{
   content: "<";
   opacity: 0;
-  transition: .3s;
+  transition: .2s;
 }
 .next::after{
   content: ">";
   opacity: 0;
-  transition: .3s;
+  transition: .2s;
 }
 .previous:hover::before{
   opacity: 1;
 }
 
-.next:hover::before{
+.next:hover::after{
   opacity: 1;
 }
-
+.footer{
+  margin: 20px;
+  font-family: FandolSong;
+}
 
 
 
