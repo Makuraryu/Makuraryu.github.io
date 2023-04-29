@@ -206,7 +206,6 @@ html{
   position: relative;
   width: 80vw;
   left: 10vw;
-  display: flex;
 }
 
 .prev_next p{
@@ -216,14 +215,28 @@ html{
 
 .prev_next p:hover{
   width: fit-content;
+  position: relative;
   letter-spacing: 3px;
 }
 .previous_post{
+  left: 0px;
   text-align: left;
 }
 .next_post{
+  right: 0px;
   text-align: right;
 }
+
+
+
+
+
+
+
+
+
+
+
 
 
 

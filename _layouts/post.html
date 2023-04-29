@@ -24,16 +24,16 @@
         {% endif %}
         <div class="prev_next">
             {% if page.previous.url %}
-            <div>
-                <span class="previous_post">上一篇</span>
+            <p class="previous_post">
+                <span>上一篇</span>
                 <a href="{{page.previous.url}}">{{page.previous.title}}</a>
-            </div>
+            </p>
             {% endif %}
             {% if page.next.url %}
-            <div class="next_post">
+            <p class="next_post">
                 <span>下一篇</span>
                 <a href="{{page.next.url}}">{{page.next.title}}</a>
-            </div>
+            </p>
             {% endif %}
         </div>
     </div>
