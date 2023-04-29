@@ -130,16 +130,20 @@
   color: #91989f;
 }
 
+.paginator{
+  font-size: 15px;
+}
+
 .previous,.next,.current-page{
   color: #1c1c1c;
 }
 .previous::before{
-  content: '<';
+  content: "<";
   opacity: 0;
   transition: .3s;
 }
 .next::after{
-  content: '>';
+  content: ">";
   opacity: 0;
   transition: .3s;
 }
