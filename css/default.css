@@ -2,7 +2,7 @@
 #cover{
   position: relative;
   height: 96vh;
-
+  border-bottom: #666666;
 }
 
 #title{
@@ -11,18 +11,21 @@
   width: 100vw;
   top: 16vh;
   writing-mode: vertical-rl;
-  vertical-align: middle;
+
+  background-color: aquamarine;
 }
 .nav{
   position: relative;
   top: 24vh;
   text-align: center;
+  background-color: aquamarine;
 }
 
 .nav_nav{
   writing-mode: vertical-rl;
   text-align: center;
   letter-spacing: 5px;
+  background-color: aqua;
 }
 
 .nav_nav:hover{
