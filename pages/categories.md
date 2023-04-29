@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Categories
+title: categories
 description: 本博客所有文章分类列表。
 keywords: 分类
 permalink: /categories/
