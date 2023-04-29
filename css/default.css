@@ -24,13 +24,14 @@
   display: flex;
   width: 99vw;
   top: 20%;
-  height: 150px; 
+  height: 300px; 
 
 
 }
 .titile{
   writing-mode: vertical-rl;
   font-size: 100px;
+  max-height: 300px;
   margin: auto;
 }
 
