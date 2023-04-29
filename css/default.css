@@ -81,8 +81,9 @@
   position: relative;
   text-align: center;
   font-size: 30px;
-  font-family: FandolSong-Bold;
+  font-family: FandolSong;
   transition: .2s;
+  font-weight:bold;
 }
 .detail:hover{
   letter-spacing:2px;
@@ -107,9 +108,11 @@
   opacity: 1;
 }
 .excerpt{
-  max-height: 160px;
   overflow: hidden;
   text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 6;
 }
 
 

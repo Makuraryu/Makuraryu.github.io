@@ -8,9 +8,9 @@ keywords: Zhuang Ma, 马壮, mzlogin, mazhuang
     {% for post in paginator.posts %}
     <div class="overview">
         <div class="detail"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></div>
-        <div class="excerpt">
+        <span class="excerpt">
             {{ post.excerpt }}
-        </div>
+        </span>
         <div class="date">{{ post.date | date: "%b %d, %Y" }}</div>
     </div>
     {% endfor %}
