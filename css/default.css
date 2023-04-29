@@ -63,6 +63,7 @@
   left: 10vw;
   position: relative;
   display: flex;
+  margin-top: 70px;
 }
 
 .overview{
@@ -74,12 +75,19 @@
 .detail{
   position: relative;
   text-align: center;
+  font-size: 30px;
 }
 .detail::before{
-  content: "「";
+  content: "「  ";
 }
 .detail::after{
-  content: "」";
+  content: " 」";
+}
+.detail:hover::before{
+  transform: translateX(-5px);
+}
+.detail:hover::after{
+  transform: translateX(5px);
 }
 
 
