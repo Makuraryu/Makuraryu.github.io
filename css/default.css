@@ -251,33 +251,6 @@ strong {
 
 
 
-div.paginator {
-  margin-left: 20%;
-  float: center;
-  width: 60%;
-  color: #555;
-  text-align: center;
-  font-size: 0.75em;
-}
-
-.prev_next {
-  display: block;
-  padding: 0;
-  padding-top: 0.6em;
-}
-
-.prev_next li {
-  list-style-type: none;
-  padding: 0 0 0.2em;
-}
-
-.prev_next li span {
-  padding: 0 0.5em 0 0.5em;
-  background-color: lightslategrey;
-  color: #fff;
-  margin-right: 0.5em;
-}
-
 div.post_footer {
   text-align: right;
   font-size: 0.9em;
