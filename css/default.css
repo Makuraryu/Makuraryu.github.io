@@ -1,4 +1,6 @@
-﻿html{
+﻿/*首页*/
+
+html{
   background-color: #fffffb;
 }
 
@@ -113,7 +115,8 @@
   text-indent: 2em;
   display: -webkit-box;
   -webkit-box-orient: vertical;
-  -webkit-line-clamp: 6;
+  line-height: 150%;
+  -webkit-line-clamp: 5;
   font-size: 20px;
 }
 
@@ -123,7 +126,6 @@
   text-align:right;
   font-family: FandolSong;
   font-size: 20px;
-  font-weight: bold;
 }
 
 .paginator{
@@ -132,15 +134,14 @@
   margin:auto;
   font-weight: bold;
   font-family: FandolSong;
-  margin: 10px;
 }
 
-.previous-disabled,.next-disabled,.topage{
+.previous-disabled,.next-disabled,.current-page{
   color: #91989f;
 }
 
 
-.previous,.next,.current-page{
+.previous,.next,.topage{
   color: #1c1c1c;
 }
 .previous::before{
@@ -161,13 +162,30 @@
   opacity: 1;
 }
 .footer{
-  margin: 20px;
+  margin: 30px;
   font-family: FandolSong;
+  font-size: 10px;
 }
 
+/*文章页*/
 
+#posttitle{
+  position: absolute;
+  display: flex;
+  width: 99vw;
+  top: 15%;
+  height: 300px; 
+  
 
-
+}
+.posttitle{
+  writing-mode: vertical-rl;
+  font-size: 80px;
+  max-height: 350px;
+  margin: auto;
+  word-wrap: break-word;
+  font-family: FandolSong-Bold;
+}
 
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TESIFICATION
+title: TEST测试じっけん
 categories: jekyll
 description: say hello
 keywords: jekyll, theme
