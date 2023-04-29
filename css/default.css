@@ -116,7 +116,7 @@ html{
   display: -webkit-box;
   -webkit-box-orient: vertical;
   line-height: 150%;
-  -webkit-line-clamp: 5;
+  -webkit-line-clamp: 3;
   font-size: 20px;
 }
 
@@ -208,29 +208,32 @@ html{
   left: 10vw;
 }
 
-.prev_next p{
-  width: 40vw;
+.prev_next>p{
+  width:fit-content;
   transition: .3s;
 }
 
-.prev_next p:hover{
-  width: fit-content;
-  position: relative;
-  letter-spacing: 3px;
+.prev_next>p:hover{
+  text-shadow:.5px .5px 0px #1c1c1c;
+
 }
 .previous_post{
+  position:absolute;
   left: 0px;
   text-align: left;
 }
 .next_post{
+  position:absolute;
   right: 0px;
   text-align: right;
 }
 
 
-
-
-
+/*page*/
+.mainpage{
+  width: 70vw;
+  left: 15vw;
+}
 
 
 
