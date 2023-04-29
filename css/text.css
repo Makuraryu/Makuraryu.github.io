@@ -2,6 +2,28 @@
 a{
     text-decoration: none;
     color: black;
-    }
+    font-family: FandolSong-Bold;
+}
+
+span{
+    font-family: FandolSong-Bold;
+}
+
+
+@font-face {
+    font-family: FandolSong-Bold;
+    src: url(./FandolSong-Bold.otf);
+}
+
+@font-face {
+    font-family: FandolSong-Re;
+    src: url(./FandolSong-Regular.otf);
+}
+
+
+
+
+
+
     
     

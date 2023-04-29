@@ -1,8 +1,13 @@
-﻿#cover{
+﻿html{
+  background-color: #fffffb;
+}
+
+#cover{
   position: relative;
   height: 98vh;
   width: 98vw;
 }
+
 #cover::after{
   content: '';
   text-align: center;
