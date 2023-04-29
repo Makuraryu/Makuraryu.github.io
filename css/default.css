@@ -6,6 +6,7 @@
   position: relative;
   height: 98vh;
   width: 98vw;
+  min-height: 600px;
 }
 
 #cover::after{
@@ -56,6 +57,28 @@
   letter-spacing: 20px;
   transform: translateY(-10px);
 }
+
+.postlist{
+  width: 80vw;
+  left: 10vw;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -141,23 +164,11 @@ strong {
   color: #666666;
 }
 
-div.overview {
-  margin: 1.75em 1.25em 1.75em 1.25em;
-}
 
-div.detail {
-  margin-left: 28%;
-}
 
-div.date { 
-  padding-top: 1px;
-  float: left; 
-  width: 25%; 
-  color: #555;
-  text-align: right; 
-  font-style: italic; 
-  font-size: 0.75em;
-}
+
+
+
 
 div.paginator {
   margin-left: 20%;

@@ -9,6 +9,9 @@ keywords: Zhuang Ma, 马壮, mzlogin, mazhuang
     <div class="overview">
         <div class="date">{{ post.date | date: "%b %d, %Y" }}</div>
         <div class="detail"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></div>
+        <div class="entry">
+            {{ post.excerpt }}
+        </div>
     </div>
     {% endfor %}
 </div>
