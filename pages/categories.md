@@ -13,7 +13,7 @@ permalink: /categories/
 </div>
 
 {% for category in site.categories %}
-<h3>{{ cat[0] }}({{ cat[1].size }})</h3>
+<h3>{{ category[0] }}({{ category[1].size }})</h3>
 <ul id="{{ category[0] }}">
 {% for post in category.last %}
 <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
