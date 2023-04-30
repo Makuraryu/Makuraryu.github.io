@@ -40,7 +40,7 @@ html{
   margin: auto;
   word-wrap: break-word;
   font-family: FandolSong-Bold;
-  text-shadow:10px 10px 10px rgba(189,192,186,.8);
+  text-shadow:10px 10px 10px rgba(97,97,56,.3);
 }
 
 .nav{
@@ -63,7 +63,7 @@ html{
 .nav_nav:hover{
   letter-spacing: 20px;
   transform: translateY(-10px);
-  text-shadow:3px 3px 3px rgba(189,192,186,.8);
+  text-shadow:3px 3px 3px rgba(97,97,56,.3);
 }
 
 .postlist{
@@ -187,7 +187,7 @@ html{
   margin: auto;
   word-wrap: break-word;
   font-family: FandolSong-Bold;
-  text-shadow:3px 3px 3px rgba(189,192,186,.8);
+  text-shadow:3px 3px 3px rgba(97,97,56,.3);
 }
 
 #article{
@@ -231,7 +231,7 @@ html{
 }
 
 .prev_next>p:hover{
-  text-shadow:3px 3px 3px rgba(189,192,186,.8);
+  text-shadow:3px 3px 3px rgba(97,97,56,.3);
   transition: .3s;
   position: relative;
 }
@@ -277,7 +277,7 @@ html{
 }
 
 .catposts:hover{
-  text-shadow:3px 3px 3px rgba(189,192,186,.8);
+  text-shadow:3px 3px 3px rgba(97,97,56,.3);
 }
 .catposts:hover::before{
   opacity:1;
@@ -319,12 +319,12 @@ html{
 }
 .link:hover>.id{
   transform:translateX(10px);
-  text-shadow:3px 3px 3px rgba(189,192,186,.8);
+  text-shadow:3px 3px 3px rgba(97,97,56,.3);
   letter-spacing:3px;
 }
 .link:hover>.description{
   transform:translateX(10px);
-  text-shadow:3px 3px 3px rgba(189,192,186,.8);
+  text-shadow:3px 3px 3px rgba(97,97,56,.3);
   letter-spacing:3px;
 }
 .icon{
@@ -383,7 +383,7 @@ html{
 }
 
 .mylinks>a:hover{
-  text-shadow:3px 3px 3px rgba(189,192,186,.8);
+  text-shadow:3px 3px 3px rgba(97,97,56,.3);
     letter-spacing:3px;
 }
 .mylinks>a:hover::before{
