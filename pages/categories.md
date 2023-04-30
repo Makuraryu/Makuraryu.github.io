@@ -10,12 +10,11 @@ permalink: /categories/
 {% for category in site.categories %}
 
 <p class="category">{{ category[0] }}({{ category[1].size }})</p>
-{% for post in category.last %}
 
+{% for post in category.last %}
 <a class="catposts" href="{{ site.url }}{{ post.url }}">
 {{ post.title }}
 </a>
-
 {% endfor %}
 
 {% endfor %}

@@ -224,7 +224,9 @@ html{
   width:fit-content;
   content:">";
   opacity:0;
-  transition:.3s;
+  transition:.2s;
+  position:absolute;
+  left:-2vw;
 }
 
 .prev_next>p:hover{
@@ -235,9 +237,10 @@ html{
 .prev_next>p:hover::before{
   opacity:1;
   transform:translateX(5px);
+  transform:translateX(-1.5px);
 }
 
-
+  
 /*page*/
 .mainpage{
   position: relative;
@@ -247,7 +250,38 @@ html{
 }
 
 /*Category*/
+.categories{
+  position:relative;
+  left:20vw;
+}
 
+.category{
+  font-size:30px;
+  font-family: FandolSong-Bold;
+}
+
+.catposts{
+  position:relative;
+  font-family: FandolSong;
+  font-size:20px;
+  left:2vw;
+  transition:.2s;
+}
+.catposts::before{
+  content:">";
+  position:absolute;
+  left:-2vw;
+  opacity:0;
+  transition:.2s;
+}
+
+.catposts:hover{
+  text-shadow:.5px .5px 0px #1c1c1c;
+}
+.catposts:hover::before{
+  opacity:1;
+  transform:translateX(-1.5px);
+}
 
 
 
