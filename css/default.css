@@ -360,12 +360,15 @@ html{
   text-indent: 2em;
   font-size: 20px;
 }
-
+.mylinks{
+  white-space: nowrap;
+}
 .mylinks>a{
   font-size: 20px;
   position:relative;
   left:2vw;
   transition:.2s;
+  white-space: nowrap;
 }
 .mylinks>a::before{
   content:">";
