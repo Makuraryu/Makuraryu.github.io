@@ -186,6 +186,7 @@ html{
   margin: auto;
   word-wrap: break-word;
   font-family: FandolSong-Bold;
+  text-shadow:10px 10px 10px rgba(189,192,186,.8);
 }
 
 #article{
@@ -242,6 +243,7 @@ html{
   position: relative;
   width: 60vw;
   left: 20vw;
+  font-family: FandolSong;
 }
 
 

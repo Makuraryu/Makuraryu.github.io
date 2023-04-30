@@ -56,11 +56,35 @@ span{
     color:#36563c;
 }
 
-#article h1,h2,h3,h4,h5,h6{
+#article h1{
     transform:translateY(10px);
     text-align:center;
 }
 
+#article h2{
+    transform:translateY(10px);
+    text-align:center;
+}
+
+#article h3{
+    transform:translateY(10px);
+    text-align:center;
+}
+
+#article h4{
+    transform:translateY(10px);
+    text-align:center;
+}
+
+#article h5{
+    transform:translateY(10px);
+    text-align:center;
+}
+
+#article h6{
+    transform:translateY(10px);
+    text-align:center;
+}
 
 
 
