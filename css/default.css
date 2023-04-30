@@ -361,14 +361,18 @@ html{
   font-size: 20px;
 }
 .mylinks{
-  white-space: nowrap;
+  position:relative;
+
+  display:flex;
+  flex-direction:column;
 }
 .mylinks>a{
   font-size: 20px;
   position:relative;
   left:2vw;
   transition:.2s;
-  white-space: nowrap;
+  margin:5px;
+
 }
 .mylinks>a::before{
   content:">";
@@ -380,6 +384,7 @@ html{
 
 .mylinks>a:hover{
   text-shadow:3px 3px 3px rgba(189,192,186,.8);
+    letter-spacing:3px;
 }
 .mylinks>a:hover::before{
   opacity:1;
