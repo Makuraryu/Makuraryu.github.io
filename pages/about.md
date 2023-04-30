@@ -5,7 +5,7 @@ description: 潘上的个人简介。
 keywords: 潘上
 permalink: /about/
 ---
-
+<div class="about">
 很高兴与你相见！ 👋
 
 我是潘上。
@@ -20,3 +20,15 @@ permalink: /about/
 
 喜欢哲学、文学、数学、计算机科学、设计学。
 
+下面是我的一些联系方式和项目 💻，你可以去这些地方找我 🍵，期待与你在比特之海中相见！
+</div>
+<div class="mylinks">
+<a href="mailto:pumshang2004@163.com">邮件</a>
+<a href="https://music.163.com/#/user/home?id=93953060">网易云音乐</a>
+<a href="https://space.bilibili.com/1659331844">哔哩哔哩</a>
+<a href="https://github.com/Makuraryu">Github</a>
+<a href="https://twitter.com/pumshang2004">Twitter</a>
+<a href="https://www.zhihu.com/people/pan-shang-98">知乎</a>
+<a href="http://mr-starter.rth.app">枕流起始页</a>
+
+</div>

@@ -11,6 +11,8 @@ html{
   min-height: 600px;
 }
 
+
+
 #cover::after{
   content: '';
   text-align: center;
@@ -20,7 +22,6 @@ html{
   left: 15%;
   height: 3px;
   background-color: #1c1c1c;
-  
 }
 
 #title{
@@ -309,8 +310,8 @@ html{
   top:-10%;
   width:120%;
   height:120%;
-  border-radius:20px;
-    box-shadow:10px 10px 10px rgba(189,192,186,.2);
+  border-radius:10px;
+  box-shadow:10px 10px 10px rgba(189,192,186,.2);
 }
 .link:hover>.icon{
   transform:translateX(-10px);
@@ -354,11 +355,33 @@ html{
   transition:.3s;
 }
 
+/*about*/
+.about{
+  text-indent: 2em;
+  font-size: 20px;
+}
 
+.mylinks>a{
+  font-size: 20px;
+  position:relative;
+  left:2vw;
+  transition:.2s;
+}
+.mylinks>a::before{
+  content:">";
+  position:absolute;
+  left:-2vw;
+  opacity:0;
+  transition:.2s;
+}
 
-
-
-
+.mylinks>a:hover{
+  text-shadow:3px 3px 3px rgba(189,192,186,.8);
+}
+.mylinks>a:hover::before{
+  opacity:1;
+  transform:translateX(-1.5px);
+}
 
 
 
