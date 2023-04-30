@@ -6,6 +6,31 @@ keywords: 友情链接
 permalink: /links/
 ---
 
-<ul>
-<li><a href="http://mazhuang.org/">码志</a></li>
-</ul>
+<div class="links">
+    <a class="link">
+        <img src="" alt="" class="icon">
+        <p class="id"></p>
+        <p class="description"></p>
+    </a>
+    <a class="link">
+        <img src="" alt="" class="icon">
+        <p class="id"></p>
+        <p class="description"></p>
+    </a>
+    <a class="link">
+        <img src="" alt="" class="icon">
+        <p class="id"></p>
+        <p class="description"></p>
+    </a>
+
+
+
+
+
+
+
+
+
+
+
+</div>
