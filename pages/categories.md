@@ -6,11 +6,17 @@ keywords: 分类
 permalink: /categories/
 ---
 <div class="categories">
-</div>
+
 {% for category in site.categories %}
+
 <p class="category">{{ category[0] }}({{ category[1].size }})</p>
 {% for post in category.last %}
-<a class="catposts" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+
+<a class="catposts" href="{{ site.url }}{{ post.url }}">
+{{ post.title }}
+</a>
+
 {% endfor %}
 
 {% endfor %}
+</div>
