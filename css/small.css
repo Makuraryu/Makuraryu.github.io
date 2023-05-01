@@ -5,20 +5,6 @@
 
 
 
-
-
-div.overview {
-  margin: 1.5em 0 1.5em 0.75em;
-}
-
-div.detail {
-  margin-left: 0;
-}
-
-div.date {
-  display: none;
-}
-
 .gist .line-numbers {
   display: none;
 }
