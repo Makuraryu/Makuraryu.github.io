@@ -29,6 +29,6 @@ permalink: /about/
 <a href="https://github.com/Makuraryu">Github</a>
 <a href="https://twitter.com/pumshang2004">Twitter</a>
 <a href="https://www.zhihu.com/people/pan-shang-98">知乎</a>
-<a href="http://mr-starter.rth.app">枕流起始页</a>
+<a href="https://mr-starter.rth1.one/">枕流起始页</a>
 
 </div>
