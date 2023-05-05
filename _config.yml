@@ -19,7 +19,7 @@ email: pumshang2004@163.com
 markdown: kramdown
 kramdown:
     input: GFM
-paginate: 1
+paginate: 7
 permalink: /:year/:month/:day/:title/
 gems:
     - jekyll-paginate
