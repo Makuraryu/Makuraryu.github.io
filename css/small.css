@@ -25,6 +25,12 @@
   left: 5%;
 
 }
+
+#article img{
+    position:relative;
+    max-width:90vw;
+    min-width:50vw;
+}
 .mainpage{
   position: relative;
   width: 90%;
