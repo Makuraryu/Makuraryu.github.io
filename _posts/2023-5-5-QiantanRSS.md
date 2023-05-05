@@ -14,7 +14,7 @@ keywords: RSS，技术，互联网
 
 这是维基百科上对RSS的定义，简单来说，RSS就是一种使用应用通过链接订阅网站，并整合在一起的技术手段。比如我的网站，点击页面底部的“订阅”添加（或者右击复制链接），使用[innoreader](https://www.innoreader.com)这一网站订阅，就像这个样子：
 
-[![p9UUdhT.png](https://s1.ax1x.com/2023/05/05/p9UUdhT.png)](https://imgse.com/i/p9UUdhT)
+![p9UUdhT.png](https://s1.ax1x.com/2023/05/05/p9UUdhT.png)
 
 ## RSS的价值
 
