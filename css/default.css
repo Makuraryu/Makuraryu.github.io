@@ -210,9 +210,11 @@ html{
   font-weight:bolder;
 }
 
+
 .prev_next{
   position: relative;
   left: 15vw;
+  width:70vw;
 }
 
 .prev_next>p{
