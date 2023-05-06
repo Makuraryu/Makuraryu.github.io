@@ -20,7 +20,7 @@ permalink: /links/
         <p class="description">永远相信美好的事情即将发生</p>
         </div>
     </a>
-    <a href="https://mr-starter.rth1.one/">
+    <a href="https://makuraryu.github.io/launcher/index.html">
         <div class="link">
         <img src="https://cdn.retiehe.com/cached-edfcf8a8b627b6c6d3c07879532d97ea/mr-starter/icon.png" alt="" class="icon">
         <p class="id">枕流起始页</p>
