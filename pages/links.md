@@ -5,7 +5,11 @@ description: 朋友们的博客和主页
 keywords: 友情链接
 permalink: /links/
 ---
-
+`名称: 枕流阁
+地址: https://makuraryu.github.io
+头像: https://makuraryu.github.io/favicon.ico
+描述: 回归纯粹，用于狼狈`
+欢迎来和我添加友链喔
 <div class="links">
     <a href="https://5ime.cn">
         <div class="link">
