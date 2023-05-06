@@ -7,11 +7,11 @@ permalink: /links/
 ---
 
 <div class="links">
-    <a href="https://www.yunyoujun.cn">
+    <a href="https://5ime.cn">
         <div class="link">
-        <img src="https://www.yunyoujun.cn/images/avatar.jpg" alt="" class="icon">
-        <p class="id">云游君</p>
-        <p class="description">希望能成为一个有趣的人。</p>
+        <img src="https://cdn.jsdelivr.net/gh/5ime/img/avatar.jpg" alt="" class="icon">
+        <p class="id">I Am I</p>
+        <p class="description">永远相信美好的事情即将发生</p>
         </div>
     </a>
     <a href="https://mr-starter.rth1.one/">
