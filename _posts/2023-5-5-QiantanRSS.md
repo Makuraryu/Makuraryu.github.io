@@ -12,7 +12,7 @@ keywords: RSS，技术，互联网
 
 > RSS（英文全称：RDF Site Summary 或 Really Simple Syndication），中文译作简易资讯聚合，也称聚合内容，是一种消息来源格式规范，用以聚合多个网站更新的内容并自动通知网站订阅者。使用 RSS 后，网站订阅者便无需再手动查看网站是否有新的内容，同时 RSS 可将多个网站更新的内容进行整合，以摘要的形式呈现，有助于订阅者快速获取重要信息，并选择性地点阅查看。
 
-这是维基百科上对RSS的定义，简单来说，RSS就是一种使用应用通过链接订阅网站，并整合在一起的技术手段。比如我的网站，点击页面底部的“订阅”添加（或者右击复制链接），使用[innoreader](https://www.innoreader.com)这一网站订阅，就像这个样子：
+这是[维基百科](https://zh.wikipedia.org/wiki/RSS)上对RSS的定义，简单来说，RSS就是一种使用应用通过链接订阅网站，并整合在一起的技术手段。比如我的网站，点击页面底部的“订阅”添加（或者右击复制链接），使用[innoreader](https://www.innoreader.com)这一网站订阅，就像这个样子：
 
 ![p9UUdhT.png](https://s1.ax1x.com/2023/05/05/p9UUdhT.png)
 
