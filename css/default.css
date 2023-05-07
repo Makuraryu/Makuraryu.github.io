@@ -379,8 +379,11 @@ html{
 /*valine*/
 #vcomments{
   position:relative;
-  background-color:rgba(254,223,225,.1);
 }
+.vpanel{
+  background-color:rgba(254,223,225,.13);
+}
+.
 .main #vcomments{
   width:70vw;
   left:15vw;
