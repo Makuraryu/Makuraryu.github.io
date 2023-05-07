@@ -9,7 +9,7 @@ permalink: /links/
 名称: 枕流阁
 地址: https://makuraryu.github.io
 头像: https://makuraryu.github.io/favicon.ico
-描述: 回归纯粹，用于狼狈
+描述: 回归纯粹，勇于狼狈
 ```
 欢迎来和我添加友链喔
 <div class="links">
@@ -25,13 +25,6 @@ permalink: /links/
         <img src="https://cdn.jsdelivr.net/gh/5ime/img/avatar.jpg" alt="" class="icon">
         <p class="id">I Am I</p>
         <p class="description">永远相信美好的事情即将发生</p>
-        </div>
-    </a>
-    <a href="https://www.anlu1314.com/">
-        <div class="link">
-        <img src="https://www.anlu1314.com/wp-content/uploads/2022/07/1658096981-LP4OYiXkFeVBHgu.png" alt="" class="icon">
-        <p class="id">安鹿轩</p>
-        <p class="description">遨游于网络世界，热衷于创作分享~</p>
         </div>
     </a>
 
