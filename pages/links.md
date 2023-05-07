@@ -13,13 +13,6 @@ permalink: /links/
 ```
 欢迎来和我添加友链喔
 <div class="links">
-    <a href="https://5ime.cn">
-        <div class="link">
-        <img src="https://cdn.jsdelivr.net/gh/5ime/img/avatar.jpg" alt="" class="icon">
-        <p class="id">I Am I</p>
-        <p class="description">永远相信美好的事情即将发生</p>
-        </div>
-    </a>
     <a href="https://makuraryu.github.io/launcher/index.html">
         <div class="link">
         <img src="https://cdn.retiehe.com/cached-edfcf8a8b627b6c6d3c07879532d97ea/mr-starter/icon.png" alt="" class="icon">
@@ -27,6 +20,21 @@ permalink: /links/
         <p class="description">东半球也不怎么好用的起始页</p>
         </div>
     </a>
+    <a href="https://5ime.cn">
+        <div class="link">
+        <img src="https://cdn.jsdelivr.net/gh/5ime/img/avatar.jpg" alt="" class="icon">
+        <p class="id">I Am I</p>
+        <p class="description">永远相信美好的事情即将发生</p>
+        </div>
+    </a>
+    <a href="https://www.anlu1314.com/">
+        <div class="link">
+        <img src="https://www.anlu1314.com/wp-content/uploads/2022/07/1658096981-LP4OYiXkFeVBHgu.png" alt="" class="icon">
+        <p class="id">安鹿轩</p>
+        <p class="description">遨游于网络世界，热衷于创作分享~</p>
+        </div>
+    </a>
+
 
 
 
