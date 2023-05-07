@@ -375,13 +375,15 @@ html{
   opacity:1;
   transform:translateX(-1.5px);
 }
+
+/*valine*/
 #vcomments{
   position:relative;
-  
+}
+main #vcomments{
   width:70vw;
   left:15vw;
 }
-
 
 
 
