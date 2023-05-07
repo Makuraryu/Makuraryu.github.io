@@ -40,3 +40,4 @@ permalink: /links/
 
 
 </div>
+{% include comments.html %}
