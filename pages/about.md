@@ -32,3 +32,4 @@ permalink: /about/
 <a href="https://makuraryu.github.io/launcher/index.html">枕流起始页</a>
 
 </div>
+{% include comments.html %}
