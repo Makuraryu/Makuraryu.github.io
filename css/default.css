@@ -379,6 +379,7 @@ html{
 /*valine*/
 #vcomments{
   position:relative;
+  background-color:rgba(254,223,225,.1);
 }
 .main #vcomments{
   width:70vw;
