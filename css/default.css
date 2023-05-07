@@ -380,7 +380,7 @@ html{
 #vcomments{
   position:relative;
 }
-main #vcomments{
+.main #vcomments{
   width:70vw;
   left:15vw;
 }
