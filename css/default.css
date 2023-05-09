@@ -391,10 +391,13 @@ html{
 
 /*404*/
 #nothingarea{
+  position:relative;
   width:70vw;
   left:15vw;
   text-align:center;
   font-size:20px;
+  margin-top:100px;
+  margin-bottom:100px;
   font-family: FandolSong-Bold;
 }
 
