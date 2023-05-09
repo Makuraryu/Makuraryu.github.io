@@ -18,6 +18,7 @@ $$
 det(A)&&=\sum_{j_1j_2\cdots j_n}(-1)^{\tau(j_1j_2\cdots j_n)}a_1b_{j_1}a_2b_{j_2}\cdots a_nb_{j_n}\\
 &&=\sum_{j_1j_2\cdots j_n}(-1)^{\tau(j_1j_2\cdots j_n)}a_1a_2\cdots a_nb_{j_1}b_{j_2}\cdots b_{j_n}.
 \end{eqnarray*}
+
 $$
 
 Since the odd permutation and the even permutation of $ j_1j_2\cdots j_n $ is equal, $ det(A)=0 $.
