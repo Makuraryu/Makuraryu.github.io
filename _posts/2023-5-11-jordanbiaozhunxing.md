@@ -69,8 +69,8 @@ $$
 
 当 $s\ge 2$ 时，下设 $1\le m<s$.
 
-1. 当 s=2 时，m=1，则取 $\alpha\in W$，有 $\langle\alpha\rangle$ 为一个循环子空间，取 $\beta\in W,\beta\notin\langle\alpha\rangle$，也是一个循环子空间. 因 $W=\langle\alpha\rangle\oplus\langle\beta\rangle$，$W$ 可以分解为两个不变子空间的直和.
-2. 假设 s = k 时 W 可以分解为两个不变子空间的直和. 当 s=k+1 时，W 可以分解为 W=W_1\oplus W'，其中 W_1 是 m 维循环子空间. 而 $\dim(W')=k+1-m\le k$，因而 W' 是不变子空间. 于是 W 也能分解为两个不变子空间的直和.
+1. 当 $s=2$ 时，$m=1$，则取 $\alpha\in W$，有 $\langle\alpha\rangle$ 为一个循环子空间，取 $\beta\in W,\beta\notin\langle\alpha\rangle$，也是一个循环子空间. 因 $W=\langle\alpha\rangle\oplus\langle\beta\rangle$，$W$ 可以分解为两个不变子空间的直和.
+2. 假设 $s = k$ 时 $W$ 可以分解为两个不变子空间的直和. 当 $s=k+1$ 时，$W$ 可以分解为 $W=W_1\oplus W'$，其中 $W_1$ 是 $m$ 维循环子空间. 而 $\dim(W')=k+1-m\le k$，因而 $W'$ 是不变子空间. 于是 $W$ 也能分解为两个不变子空间的直和.
 
 由 1、2，根据数学归纳法，当 $s\ge 2$ ， $1\le m<s$ 时，W 一定可以分解为两个不变子空间的直和.
 
