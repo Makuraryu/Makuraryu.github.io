@@ -2,7 +2,7 @@
 
 html{
   background-color: #fffffb;
-  overflow:hidden;
+  overflow-x:hidden;
 }
 
 #cover{
