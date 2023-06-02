@@ -5,6 +5,10 @@ html{
   overflow-x:hidden;
 }
 
+loading-door{
+  z-index: 999;
+}
+
 #cover{
   position: relative;
   height: 99.5vh;
