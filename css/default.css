@@ -90,7 +90,12 @@ html{
   font-family: FandolSong;
   transition: .2s;
   font-weight:bolder;
+  -webkit-line-clamp: 1;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
 }
+
 .detail:hover{
   letter-spacing:2px;
 
