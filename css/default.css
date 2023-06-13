@@ -10,7 +10,12 @@ html{
   height: 99.5vh;
   width: 98vw;
   min-height: 600px;
+  background:url(./background.png) no-repeat;
+  width:100%;
+  background-size:100% 100%;
 }
+
+
 
 
 
