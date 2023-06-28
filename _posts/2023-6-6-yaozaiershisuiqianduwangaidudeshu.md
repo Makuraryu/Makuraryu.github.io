@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 要在20岁前读完该读的书
-categories: 哲学
+categories: 哲学, 生活
 description: 要在20岁前读完该读的书
 keywords: 哲学, 人生, 思想, 生活
 ---
