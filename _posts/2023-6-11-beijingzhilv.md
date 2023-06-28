@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 北京之旅
-categories: 生活记录
+categories: 生活
 description: 记录我的北京之旅
 keywords: 旅行, 北京
 ---
