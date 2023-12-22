@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 疯癫：作为文明的界限
-categories: 哲学 阅读
+categories: 哲学 评论
 description: some word here
 keywords: 哲学,疯癫与文明,福柯,德里达,朗西埃
 ---
